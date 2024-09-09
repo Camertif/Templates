@@ -255,7 +255,7 @@ If the task adds code, include the code in context (don't just show `needs: setu
 
 ### Another task chunk
 
-## Step 2: Do the next thing
+## Step 2: Do the next thing!
 
 {% comment %}
 Rinse and repeat, adding steps and tasks until the tutorial is complete
